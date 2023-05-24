@@ -1,0 +1,1 @@
+mkdir .keys && touch .keys/private.key
